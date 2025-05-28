@@ -30,7 +30,7 @@
 
 ## 📸 Demo
 
-> 🔗 [Live Demo](https://your-live-demo-link.com)
+> 🔗 [Project](https://comfy-store-six-tau.vercel.app/)
 
 ![Compfy Store Screenshot](link-to-screenshot-or-demo.gif)
 
